@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_hello_world=self.webpackChunkgatsby_starter_hello_world||[]).push([[501],{7306:function(e,t,l){var a=l(7294);t.Z=e=>a.createElement("h1",null,e.headerText)},5791:function(e,t,l){l.r(t);var a=l(7294),r=l(1883),n=l(7306);t.default=()=>a.createElement("div",{style:{color:"teal"}},a.createElement(r.rU,{to:"/"},"Home"),a.createElement(n.Z,{headerText:"Contact"}),a.createElement("p",null,"Send us a message!"))}}]);
+//# sourceMappingURL=component---src-pages-contact-js-86135fd59e6b76cbe451.js.map
