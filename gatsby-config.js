@@ -9,5 +9,5 @@
  */
 module.exports = {
   plugins: [],
-  pathPrefix: "/reponame",
+  pathPrefix: "/hello-world",
 }
